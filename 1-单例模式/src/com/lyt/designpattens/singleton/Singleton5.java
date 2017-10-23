@@ -1,13 +1,14 @@
 package com.lyt.designpattens.singleton;
 
 /**
- * ˫��У����
+ * 双重校验锁
  * 
  * @author mj
  *
  */
 public class Singleton5 {
 
+	// 增加 volatile 关键字
 	private volatile static Singleton5 instance;
 
 	private Singleton5() {

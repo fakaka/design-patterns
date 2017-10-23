@@ -1,10 +1,10 @@
 package com.lyt.designpattens.singleton;
 
 /**
- * ¼òµ¥µÄÀÁººÊ½µ¥Àı
+ * æ‡’æ±‰å¼
  * 
- * @author mj
- * @version 0.1
+ * @author MJ
+ *
  */
 public class Singleton1 {
 

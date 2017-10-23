@@ -1,7 +1,10 @@
 package com.lyt.designpattens.singleton;
 
 /**
- * Ã¶¾ÙÊ½µ¥ÀıÄ£Ê½
+ * æšä¸¾å¼
+ * 
+ * @author MJ
+ *
  */
 public enum Singleton4 {
 

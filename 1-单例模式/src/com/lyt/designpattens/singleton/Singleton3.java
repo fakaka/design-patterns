@@ -1,7 +1,7 @@
 package com.lyt.designpattens.singleton;
 
 /**
- * 静态内部类式单例模式
+ * 闈欐�佸唴閮ㄧ被
  * 
  */
 public class Singleton3 {
@@ -13,7 +13,7 @@ public class Singleton3 {
 		private static Singleton3 instance = new Singleton3();
 	}
 
-	public static synchronized Singleton3 getInstance() {
+	public static Singleton3 getInstance() {
 		return Inner.instance;
 	}
 

@@ -1,11 +1,13 @@
 package com.lyt.designpattens.singleton;
 
 /**
- * ¶öººÊ½µ¥ÀıÄ£Ê½
+ * é¥¿æ±‰å¼
  * 
+ * @author MJ
+ *
  */
 public class Singleton2 {
-	// ÒÑ¾­³õÊ¼»¯ºÃÁËµ÷ÓÃÊ±²»ÓÃÖØ¸´´´½¨
+	// ç›´æ¥ç”Ÿæˆå®ä¾‹
 	private static Singleton2 instance = new Singleton2();
 
 	private Singleton2() {
