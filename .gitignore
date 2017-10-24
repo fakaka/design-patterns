@@ -1,7 +1,10 @@
+# Eclipse workspace
 /.metadata
 /.recommenders
 /RemoteSystemsTempFiles
 
+# Eclipse project
+/.metadata
 **/.settings
 .classpath
 .project
