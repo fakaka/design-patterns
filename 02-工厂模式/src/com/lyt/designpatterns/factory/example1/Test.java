@@ -1,6 +1,6 @@
 package com.lyt.designpatterns.factory.example1;
 
-public class MainClass {
+public class Test {
     
     public static void main(String[] args) throws InstantiationException, IllegalAccessException, ClassNotFoundException {
         
